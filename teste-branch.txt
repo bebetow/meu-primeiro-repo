@@ -1,0 +1,1 @@
+Arquivo criado para testar branches no Git (WSL+VSCode)
